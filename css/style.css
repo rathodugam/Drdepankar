@@ -437,3 +437,28 @@ a:hover {
     font-weight: bold;
     padding: 1rem;
 }
+.ourcustomer {
+    clear: both;
+    float: left;
+    width: 100%;
+    padding: 100px 0px;
+    /* color: white; */
+    text-align: center;
+    background-image: url("../images/bg-software1.png");
+    /* height: 500px; */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ .name-hospital {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+.city {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
